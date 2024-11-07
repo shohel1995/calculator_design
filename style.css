@@ -39,3 +39,15 @@ h1{
     background-color: #1f2326;
     color: white;
 }
+
+.btn-style{
+    background-color: purple;
+}
+
+.btn-orange{
+    background-color: orange;
+}
+
+.btn:hover{
+    background-color: pink;
+}
